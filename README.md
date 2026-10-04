@@ -1,33 +1,57 @@
-# .github
 
-Org-level community health files and shared automation defaults for the [@reactiveui](https://github.com/reactiveui) organisation.
+REPOSITORY LICENSE & USAGE RESTRICTIONS
 
-This repository provides:
+All Rights Reserved.
 
-- **Issue templates** — `.github/ISSUE_TEMPLATE/` (bug report, feature request, and contact links).
-- **Pull request template** — `.github/PULL_REQUEST_TEMPLATE.md`.
-- **Funding configuration** — `.github/FUNDING.yml`.
-- **Shared workflows** — e.g. `.github/workflows/lock-threads.yml` for auto-locking stale issues and PRs.
-- **Renovate defaults** — `renovate.json` with grouping rules for the .NET / NuGet ecosystem.
+1. Mandatory Repository Reset
 
-GitHub falls back to these files for any repository in the org that does not provide its own. See the [GitHub docs on default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for details.
+All existing content, files, documentation, configurations, modifications, and other materials within this repository must be reset, removed, or cleared as instructed by the repository owner.
 
-## Contributing
+No existing content shall be retained, modified, or reused without explicit authorization from the repository owner.
 
-Please read the [ReactiveUI Contribute guide](https://www.reactiveui.net/contribute/index.html) before opening an issue or PR.
+2. Restricted Access and Modifications
 
-## Sponsors
+No individual, contributor, collaborator, or third party is permitted to:
 
-[JetBrains](https://www.jetbrains.com/) gives ReactiveUI's maintainers licences for its tools through its
-[open source support programme](https://www.jetbrains.com/community/opensource/).
-[Anthropic](https://www.anthropic.com/) supports them with [Claude](https://claude.com/) through
-[Claude for Open Source](https://claude.com/contact-sales/claude-for-oss).
-[OpenAI](https://openai.com/) supports them with [Codex](https://openai.com/codex/) through
-[Codex for Open Source](https://developers.openai.com/community/codex-for-oss).
+* Write, add, or insert any content into this repository.
+* Create, modify, delete, or replace any files.
+* Make changes to existing source code, documentation, or configurations.
+* Submit commits, pull requests, or other modifications.
+* Copy, distribute, reproduce, or reuse any materials contained within this repository.
 
-[![JetBrains](https://raw.githubusercontent.com/reactiveui/website/main/docs/images/sponsors/jetbrains.svg)](https://www.jetbrains.com/)
-[![Claude by Anthropic](https://raw.githubusercontent.com/reactiveui/website/main/docs/images/sponsors/claude.svg)](https://claude.com/)
-[![OpenAI](https://raw.githubusercontent.com/reactiveui/website/main/docs/images/sponsors/openai.svg)](https://openai.com/codex/)
+All actions listed above require prior written permission from the repository owner.
 
-See [our sponsors](https://www.reactiveui.net/sponsors/) for more information.
-JetBrains, Claude, Anthropic, OpenAI and Codex names and logos are trademarks of their respective owners.
+3. Unauthorized Contributions
+
+Any unauthorized addition, modification, or contribution shall be considered a violation of this repository’s usage restrictions.
+
+The repository owner reserves the right to reject, revert, remove, or revoke access to any unauthorized changes or contributions without prior notice.
+
+4. Ownership and Authorization
+
+All rights, permissions, and control over this repository remain exclusively with its owner.
+
+No individual or third party shall assume permission to contribute, modify, distribute, or otherwise interact with the repository beyond what has been explicitly authorized.
+
+Silence, lack of objection, or the absence of restrictions within a particular file shall not be interpreted as consent or permission.
+
+5. Permission Requirement
+
+NO PERMISSION, NO MODIFICATION.
+
+Any form of writing, editing, uploading, deleting, or modifying content within this repository is strictly prohibited unless explicit authorization has been granted by the repository owner.
+
+6. Final Declaration
+
+By accessing or interacting with this repository, individuals are expected to respect the restrictions and conditions stated herein.
+
+Unauthorized actions are not permitted, regardless of intent or contribution.
+
+This repository is strictly controlled by its owner. All rights reserved.
+
+⸻
+
+Repository Owner: iN4MO     
+License Type: Proprietary License / All Rights Reserved
+Permission Status: Restricted
+Last Updated: 05.10.2026
