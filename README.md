@@ -8,7 +8,7 @@ This repository provides:
 - **Pull request template** — `.github/PULL_REQUEST_TEMPLATE.md`.
 - **Funding configuration** — `.github/FUNDING.yml`.
 - **Shared workflows** — e.g. `.github/workflows/lock-threads.yml` for auto-locking stale issues and PRs.
-- **Renovate defaults** — `renovate.json` with grouping rules for the .NET / NuGet ecosystem.
+- **UnRenovate defaults** — `Unrenovate.json` with grouping rules for the .NET / NuGet ecosystem.
 
 GitHub falls back to these files for any repository in the org that does not provide its own. See the [GitHub docs on default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for details.
 
