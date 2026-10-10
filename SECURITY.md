@@ -1,24 +1,47 @@
-# Security Policy
+REPOSITORY LICENSE & USAGE RESTRICTIONS
 
-## Supported versions
+All Rights Reserved.
 
-This policy covers every ReactiveUI repository that does not carry its own `SECURITY.md`. Each
-repository supports only its latest released packages, or the current state of its default branch
-where it ships no packages. Upgrade before reporting an issue.
+Mandatory Repository Reset
+All existing content, files, documentation, configurations, modifications, and other materials within this repository must be reset, removed, or cleared as instructed by the repository owner.
 
-## Reporting a vulnerability
+No existing content shall be retained, modified, or reused without explicit authorization from the repository owner.
 
-Report vulnerabilities through GitHub private vulnerability reporting, on the Security tab of the
-repository the vulnerability affects. Where the affected repository is not clear, use this
-repository:
+Restricted Access and Modifications
+No individual, contributor, collaborator, or third party is permitted to:
 
-**[Report a vulnerability](https://github.com/reactiveui/.github/security/advisories/new)**
+Write, add, or insert any content into this repository.
+Create, modify, delete, or replace any files.
+Make changes to existing source code, documentation, or configurations.
+Submit commits, pull requests, or other modifications.
+Copy, distribute, reproduce, or reuse any materials contained within this repository.
+All actions listed above require prior written permission from the repository owner.
 
-Do not open a public issue, pull request, or discussion for a security report.
+Unauthorized Contributions
+Any unauthorized addition, modification, or contribution shall be considered a violation of this repository’s usage restrictions.
 
-Include the affected repository, the package version or commit you tested, steps to reproduce,
-and the impact you believe it has. A minimal reproduction is the most useful thing you can attach.
+The repository owner reserves the right to reject, revert, remove, or revoke access to any unauthorized changes or contributions without prior notice.
 
-You will get an acknowledgement on the advisory thread, and updates there as the report is
-triaged and fixed. Once a fix is released the advisory is published with credit to the reporter
-unless you ask otherwise.
+Ownership and Authorization
+All rights, permissions, and control over this repository remain exclusively with its owner.
+
+No individual or third party shall assume permission to contribute, modify, distribute, or otherwise interact with the repository beyond what has been explicitly authorized.
+
+Silence, lack of objection, or the absence of restrictions within a particular file shall not be interpreted as consent or permission.
+
+Permission Requirement
+NO PERMISSION, NO MODIFICATION.
+
+Any form of writing, editing, uploading, deleting, or modifying content within this repository is strictly prohibited unless explicit authorization has been granted by the repository owner.
+
+Final Declaration
+By accessing or interacting with this repository, individuals are expected to respect the restrictions and conditions stated herein.
+
+Unauthorized actions are not permitted, regardless of intent or contribution.
+
+This repository is strictly controlled by its owner. All rights reserved.
+
+⸻
+
+Repository Owner: iN4MO
+License Type: Proprietary License / All Rights Reserved Permission Status: Restricted Last Updated: 05.10.2026
